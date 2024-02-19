@@ -1,0 +1,12 @@
+footer{
+    color: white;
+    width: 100%;
+    border-top: 1px #CCCCCC;
+    position: fixed;
+    bottom: 0;
+    align-items: center;
+}
+
+footer h1{
+    text-align: center;
+}
